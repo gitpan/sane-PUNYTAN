@@ -21,4 +21,4 @@ no_index:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/punytan/p5-sane.git
-version: 0.02
+version: 0.99
